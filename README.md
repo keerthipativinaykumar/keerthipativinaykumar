@@ -17,13 +17,19 @@
 
 - 👨‍💻 All of my projects are available at [https://vinaykumarkeerthipati.online](https://vinaykumarkeerthipati.online)
 
-- 📝 I regularly write articles on [https://vinaykumarkeerthipati.notion.site/7e54974f25dd4e5d8851018b0f83c4d3?v=78edb66878ce4c3eb84447245a142e94&pvs=4](https://vinaykumarkeerthipati.notion.site/7e54974f25dd4e5d8851018b0f83c4d3?v=78edb66878ce4c3eb84447245a142e94&pvs=4)
+- 📝 I regularly write articles on [Click here for my wikis](https://vinaykumarkeerthipati.notion.site/7e54974f25dd4e5d8851018b0f83c4d3?v=78edb66878ce4c3eb84447245a142e94&pvs=4)
 
-- 💬 Ask me about **react native, serverless api's, android apps, ios apps, app-store, play-store, app publish**
+- 💬 Ask me about:
+
+        - **react native**
+        - **serverless api's**
+        - **android apps**
+        - **ios apps**
+        - **app-store, play-store, app publish**
 
 - 📫 How to reach me **keerthipativinaykumar@gmail.com**
 
-- 📄 Know about my experiences [https://vinaykumarkeerthipati.notion.site/Resume-9a7389cef30345439afd72f1122a6293?pvs=4](https://vinaykumarkeerthipati.notion.site/Resume-9a7389cef30345439afd72f1122a6293?pvs=4)
+- 📄 Know about my experiences [Click here for my internet resume](https://vinaykumarkeerthipati.notion.site/Resume-9a7389cef30345439afd72f1122a6293?pvs=4)
 
 - ⚡ Passionate In **Building Scalable Mobile Applications**
 
