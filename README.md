@@ -89,6 +89,10 @@
 | ------- | ------- | ------- | ------- | ------- |
 | ![Amplify Logo](https://docs.amplify.aws/assets/logo-dark.svg) | ![Android Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) |
 
+| Pytorch | Reactjs | Realm | Tailwind |
+| ------- | ------- | ------- | ------- |
+| ![Pytorch Logo](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) | ![Reactjs Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![Realm](https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg) | ![Tailwind Logo](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) |
+
 | Chartjs | D3js | Electronjs | Expressjs | Figma |
 | ------- | ------- | ------- | ------- | ------- |
 | ![Chartjs Logo](https://www.chartjs.org/media/logo-title.svg) | ![D3js Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) |
@@ -96,7 +100,7 @@
 ---------------------
 
 <p align="left"> 
-        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+        </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Support:</h3>
