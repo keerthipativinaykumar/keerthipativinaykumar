@@ -29,8 +29,8 @@
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./Pages/experience.md">Experience</a></li>
-          <li><a href="./Pages/projects.md">Projects</a></li>
+          <li><a href="https://github.com/keerthipativinaykumar/keerthipativinaykumar/blob/main/Pages%20/experience.md">Experience</a></li>
+          <li><a href="https://github.com/keerthipativinaykumar/keerthipativinaykumar/blob/main/Pages%20/projects.md">Projects</a></li>
         </ul>
       </td>
     </tr>
