@@ -1,11 +1,42 @@
 <h1 align="center">Hi 👋, I'm vinay kumar keerthipati</h1>
 <h3 align="center">A passionate mobile application developer from India</h3>
 
-<p align="left"> 
+This repository serves as a template to easily construct, customize, and publicize a personal portfolio using Markdown. Though it is always fun and impressive to design and deploy a gorgeous personal website, one need not do so in order to show off their portfolio. Simplicity is often just as effective as complexity, if not more so. Hence, this template utilizes Markdown for clean portfolio design, with the intent of being located in a GitHub repository for ease of access.
+
+---
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Information</b></td>
+      <td width="50%" rowspan="4">
+        <img alt="Photo" src="https://media.licdn.com/dms/image/C5603AQGCpTUIr5LEQQ/profile-displayphoto-shrink_200_200/0/1604635344861?e=2147483647&v=beta&t=Uon8-3mQNLc4sKm6R06AHc4Da5G25EFGvaK5qIsnIP8" />
+              <p align="center"> 
         <img src="https://komarev.com/ghpvc/?username=keerthipativinaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipativinaykumar" /> 
-        <a href="https://twitter.com/vinaykumarrajuk" target="blank"><img src="https://img.shields.io/twitter/follow/vinaykumarrajuk?logo=twitter&style=for-the-badge" alt="vinaykumarrajuk" />
-        </a> 
-</p>
+              </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="toMail://keerthipativinaykumar@gmail.com">keerthipativinaykumar@email.com</a></li>
+          <li><a href="https://www.linkedin.com/in/keerthipativinaykumar">LinkedIn</a></li>
+          <li><a href="https://github.com/keerthipativinaykumar">GitHub</a></li>
+          <li><a href="https://github.com/keerthipativinaykumar/keerthipativinaykumar/wiki">Wikis</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>Showcase</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./Pages/experience.md">Experience</a></li>
+          <li><a href="./Pages/projects.md">Projects</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 - 🔭 I’m currently working on [Health-Care Projects](https://vinaykumarkeerthipati.online)
 
