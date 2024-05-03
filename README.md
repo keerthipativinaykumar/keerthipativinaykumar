@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile application developer from India</h3>
 
 -.
----
+-------------------------
 
 <table>
   <tbody>
@@ -37,6 +37,8 @@
   </tbody>
 </table>
 
+-------------------------
+
 - 🔭 I’m currently working on [Health-Care Projects](https://vinaykumarkeerthipati.online)
 
 - 🌱 I’m currently learning **Hono, Cloud Api's,**
@@ -63,6 +65,8 @@
 
 - ⚡ Passionate In **Building Scalable Mobile Applications**
 
+------------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/keerthipativinaykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="keerthipativinaykumar" height="30" width="40" /></a>
@@ -73,44 +77,41 @@
 <a href="https://www.youtube.com/c/vinaykumarkeerthipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinaykumarkeerthipati" height="30" width="40" /></a>
 </p>
 
+-------------------------
+
 <h3 align="left">Languages and Tools:</h3>
 
------------------
+-------------------------
 
-| React-Native | Javascript | Firebase | Redux | Nodejs |
-| ------- | ------- | ------- | ------- | ------- |
-| ![ReactNative Logo](https://reactnative.dev/img/header_logo.svg) | ![Javascript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![Firebase Logo](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![Redux Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) | ![NodeJs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) |
+| React-Native | Javascript | Firebase | Redux | Nodejs | Amplify | Android | Appwrite | Aws | Azure |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![ReactNative Logo](https://reactnative.dev/img/header_logo.svg) | ![Javascript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![Firebase Logo](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![Redux Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) | ![NodeJs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Amplify Logo](https://docs.amplify.aws/assets/logo-dark.svg) | ![Android Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) |
 
-| Git | Graphql | Linux | Postgresql | Postman |
-| ------- | ------- | ------- | ------- | ------- |
-| ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | ![Graphql Logo](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) |
+| Figma | Git | Graphql | Linux | Postgresql | Postman | Pytorch | Reactjs  | Tailwind |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| ![](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) | ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | ![Graphql Logo](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![Pytorch Logo](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) | ![Reactjs Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![Tailwind Logo](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) |
 
-| Amplify | Android | Appwrite | Aws | Azure |
-| ------- | ------- | ------- | ------- | ------- |
-| ![Amplify Logo](https://docs.amplify.aws/assets/logo-dark.svg) | ![Android Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) |
-
-| Pytorch | Reactjs | Realm | Tailwind |
-| ------- | ------- | ------- | ------- |
-| ![Pytorch Logo](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) | ![Reactjs Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![Realm](https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg) | ![Tailwind Logo](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) |
-
-| Chartjs | D3js | Electronjs | Expressjs | Figma |
-| ------- | ------- | ------- | ------- | ------- |
-| ![Chartjs Logo](https://www.chartjs.org/media/logo-title.svg) | ![D3js Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) |
+| Electronjs | Expressjs | Hono |
+| ------- | ------- | ------- |
+| ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) |  |
         
 ---------------------
 
-<p align="left"> 
-        </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
 <h3 align="left">Support:</h3>
-<p align="left">
-        <a href="https://www.buymeacoffee.com/vinaykumarkeerthipati"> 
+
+-------------------------
+
+<p align="center">
+        <a align="center" href="https://www.buymeacoffee.com/vinaykumarkeerthipati"> 
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinaykumarkeerthipati" />
         </a>
-        <a href="https://ko-fi.com/vinaykumarkeerthipati"> 
+        <a align="center" href="https://ko-fi.com/vinaykumarkeerthipati"> 
                 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vinaykumarkeerthipati" />
         </a>
 </p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipativinaykumar&" alt="keerthipativinaykumar" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipativinaykumar&" alt="keerthipativinaykumar" /></p>
+
+-------------------------
+
+#### Created by ```@vinaykumarkeerthipati```
