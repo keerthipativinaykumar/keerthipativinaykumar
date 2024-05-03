@@ -62,12 +62,13 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vinaykumarkeerthipati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinaykumarkeerthipati" /></a><a href="https://ko-fi.com/vinaykumarkeerthipati"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vinaykumarkeerthipati" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthipativinaykumar&show_icons=true&locale=en&layout=compact" alt="keerthipativinaykumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthipativinaykumar&show_icons=true&locale=en" alt="keerthipativinaykumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipativinaykumar&" alt="keerthipativinaykumar" /></p>
+<p align="left">
+        <a href="https://www.buymeacoffee.com/vinaykumarkeerthipati"> 
+                <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinaykumarkeerthipati" />
+        </a>
+        <a href="https://ko-fi.com/vinaykumarkeerthipati"> 
+                <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vinaykumarkeerthipati" />
+        </a>
+</p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipativinaykumar&" alt="keerthipativinaykumar" /></p>
 
