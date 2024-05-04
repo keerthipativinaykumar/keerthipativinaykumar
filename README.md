@@ -1,18 +1,15 @@
+<p align="center"> <img alt="Photo" align="center" src="https://github.com/keerthipativinaykumar/keerthipativinaykumar/blob/main/Assests/Vinay%20Headshot.png" /></p>
 <h1 align="center">Hi 👋, I'm vinay kumar keerthipati</h1>
 <h3 align="center">A passionate mobile application developer from India</h3>
-
--.
--------------------------
+<p align="center"> 
+        <img src="https://komarev.com/ghpvc/?username=keerthipativinaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipativinaykumar" /> 
+              </p>
 
 <table>
   <tbody>
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="https://media.licdn.com/dms/image/C5603AQGCpTUIr5LEQQ/profile-displayphoto-shrink_200_200/0/1604635344861?e=2147483647&v=beta&t=Uon8-3mQNLc4sKm6R06AHc4Da5G25EFGvaK5qIsnIP8" />
-              <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=keerthipativinaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipativinaykumar" /> 
-              </p>
       </td>
     </tr>
     <tr>
@@ -97,11 +94,10 @@
         
 ---------------------
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support:
 
--------------------------
-
-<p align="center">
+<br/>
+<p>
         <a align="center" href="https://www.buymeacoffee.com/vinaykumarkeerthipati"> 
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinaykumarkeerthipati" />
         </a>
@@ -109,13 +105,6 @@
                 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vinaykumarkeerthipati" />
         </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipativinaykumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="keerthipativinaykumar" /></p>
-
--------------------------
-
-![vinaykumarkeerthipati GitHub stats](https://github-readme-stats.vercel.app/api/?username=keerthipativinaykumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,commits)
-
--------------------------
+</h3>
 
 #### Created by ```@vinaykumarkeerthipati```
