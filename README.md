@@ -36,15 +36,15 @@
 
 -------------------------
 
-- 🔭 I’m currently working on [Health-Care Projects](https://vinaykumarkeerthipati.online)
+- 🔭 I’m currently working on [Health-Care Projects](https://vinaykumarkeerthipati.tech)
 
 - 🌱 I’m currently learning **Hono, Cloud Api's,**
 
-- 👯 I’m looking to collaborate on [Secret-App](https://vinaykumarkeerthipati.online)
+- 👯 I’m looking to collaborate on [Secret-App](https://vinaykumarkeerthipati.tech)
 
-- 🤝 I’m looking for help with [Leveraging ML's & AI's to my Secret-App](https://vinaykumarkeerthipati.online)
+- 🤝 I’m looking for help with [Leveraging ML's & AI's to my Secret-App](https://vinaykumarkeerthipati.tech)
 
-- 👨‍💻 All of my projects are available at [https://vinaykumarkeerthipati.online](https://vinaykumarkeerthipati.online)
+- 👨‍💻 All of my projects are available at [https://vinaykumarkeerthipati.online](https://vinaykumarkeerthipati.tech)
 
 - 📝 I regularly write articles on [Click here for my wikis](https://vinaykumarkeerthipati.notion.site/7e54974f25dd4e5d8851018b0f83c4d3?v=78edb66878ce4c3eb84447245a142e94&pvs=4)
 
