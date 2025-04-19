@@ -1,6 +1,6 @@
-<p align="center"> <img alt="Photo" align="center" src="https://github.com/keerthipativinaykumar/keerthipativinaykumar/blob/main/Assests/Vinay%20Headshot.png" /></p>
+<p align="center"> <img alt="Photo" align="center" src="https://avatars.githubusercontent.com/u/35635533?v=4" /></p>
 <h1 align="center">Hi 👋, I'm vinay kumar keerthipati</h1>
-<h3 align="center">A passionate mobile application developer from India</h3>
+<h3 align="center">A passionate mobile application engineer from India</h3>
 <p align="center"> 
         <img src="https://komarev.com/ghpvc/?username=keerthipativinaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipativinaykumar" /> 
               </p>
